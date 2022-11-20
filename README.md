@@ -14,7 +14,7 @@
 
 ### 기술 소개
 - HTML, CSS, JS, React
-- JS를 활용한 node.js와 mongoDB
+- node.js와 mongoDB
 - python과 Flask
 
 
