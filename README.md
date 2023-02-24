@@ -19,6 +19,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwo98)](https://solved.ac/ehdwo98/)
 
+
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsdk1095sd@gmail.com)](mailto:wlsdk1095sd@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ehdwo98@naver.com)](mailto:ehdwo98@naver.com)
 <!--
 **ehdwo98/ehdwo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
