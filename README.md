@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=90B494&height=300&section=header&text=Hello!%20I'm%20KDJ&fontSize=60&fontColor=#0080FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=869adb&height=200&section=header&text=Hello!%20I'm%20KDJ&fontSize=50&fontColor=#0080FF)
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
