@@ -21,6 +21,10 @@
 - node.js와 mongoDB
 - python과 Flask
 
+|참여프로젝트|기간|링크|
+|:------:|:---:|:---:|
+|KT 에이블스쿨|2023.08.08~2024.01.27|[Trip Mission 관광지 인증 웹 어플리케이션](https://github.com/SUNGWHANYOON/TM-KDTHackathon5th)<br>[발표 분석 온라인 플랫폼](https://github.com/ehdwo98/Mouse-PT)|
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwo98)](https://solved.ac/ehdwo98/)
 
 
