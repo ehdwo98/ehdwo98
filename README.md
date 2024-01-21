@@ -24,6 +24,7 @@
 
 |참여프로젝트|기간|링크|
 |:------:|:---:|:---:|
+|2022 대구를 빛내는 SW 해커톤|2022.9~2022.10|[은둔청소년문제를 해결하는 한집 서비스](https://github.com/ehdwo98/Sleepless-in-IT-4_KNU-Hackathon2022)|
 |KT 에이블스쿨|2023.08.08~2024.01.26|[Trip Mission 관광지 인증 웹 어플리케이션](https://github.com/ehdwo98/TM-KDTHackathon5th)<br>[발표 분석 온라인 플랫폼](https://github.com/ehdwo98/Mouse-PT)|
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwo98)](https://solved.ac/ehdwo98/)
