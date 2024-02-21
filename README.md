@@ -4,7 +4,6 @@
 
 ### 자기 소개
 - 경북대 컴퓨터학부 글로벌sw전공
-- 경북대 사회과학부 디지털정보융합전공
 
 ### 기술 소개
 - EDA, ML(scikit-learn), DL(TensorFlow)
