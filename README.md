@@ -20,6 +20,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwo98)](https://solved.ac/ehdwo98/)
 [![DongJae's github stats](https://github-readme-stats.vercel.app/api?username=ehdwo98&show_icons=true&theme=cobalt)](https://github.com/ehdwo98/github-readme-stats)
 
+## 📌 Badges
+![image_20240221173601](https://github.com/ehdwo98/ehdwo98/assets/48575816/e12d8f1b-3af6-44cd-b72c-c61d7662a6dd)
+![image_20240221173707](https://github.com/ehdwo98/ehdwo98/assets/48575816/80f42c74-e557-4831-ab71-03ad893361cb)
+
+
+
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsdk1095sd@gmail.com)](mailto:wlsdk1095sd@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ehdwo98@naver.com)](mailto:ehdwo98@naver.com)
