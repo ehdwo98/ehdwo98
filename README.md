@@ -15,7 +15,8 @@
 |참여프로젝트|기간|링크|
 |:------:|:---:|:---:|
 |2022 대구를 빛내는 SW 해커톤|2022.9~2022.10|[은둔청소년문제를 해결하는 한집 서비스](https://github.com/ehdwo98/Sleepless-in-IT-4_KNU-Hackathon2022)|
-|KT 에이블스쿨|2023.08.08~2024.01.26|[<KDT해커톤> Trip Mission 관광지 인증 웹 어플리케이션](https://github.com/ehdwo98/TM-KDTHackathon5th)<br>[<미니프로젝트> 수어 chat gpt 서비스 개발](https://github.com/ehdwo98/SLCG_KTAIVLE_G24)<br>[<빅프로젝트> 발표 분석 온라인 플랫폼](https://github.com/ehdwo98/Mouse-PT)| 
+|경북대학교|2023.01~2023.03|[핀으로 소통하는 KNU-PIN](https://github.com/KNU-PIN/frontend)|
+|KT 에이블스쿨|2023.08.08~2024.01.26|[<미니프로젝트> 수어 chat gpt 서비스 개발](https://github.com/ehdwo98/SLCG_KTAIVLE_G24)<br>[<빅프로젝트> 발표 분석 온라인 플랫폼](https://github.com/ehdwo98/Mouse-PT)| 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwo98)](https://solved.ac/ehdwo98/)
 [![DongJae's github stats](https://github-readme-stats.vercel.app/api?username=ehdwo98&show_icons=true&theme=cobalt)](https://github.com/ehdwo98/github-readme-stats)
