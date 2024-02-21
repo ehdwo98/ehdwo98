@@ -8,7 +8,7 @@
 ### 기술 소개
 - EDA, ML(scikit-learn), DL(TensorFlow)
 - Django and Flask
-- HTML, CSS, JS, React, node.js
+- HTML, CSS, JS, React
 - MySQL, mongoDB
 
 |참여프로젝트|기간|링크|
