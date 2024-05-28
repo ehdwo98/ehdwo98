@@ -2,13 +2,14 @@
 
 
 # Production
-- 경북대 컴퓨터학부 글로벌sw전공
+- 경북대 컴퓨터학부 글로벌SW전공
 
 ## skills
 - EDA, ML(scikit-learn), DL(TensorFlow)
 - Django and Flask
 - HTML, CSS, JS, React
 - MySQL, mongoDB
+- GPT, LLaMA3, HuggingFace
 
 ## projects
 |참여프로젝트|기간|링크|
