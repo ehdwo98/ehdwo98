@@ -30,6 +30,10 @@
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsdk1095sd@gmail.com)](mailto:wlsdk1095sd@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ehdwo98@naver.com)](mailto:ehdwo98@naver.com)
+
+
+<img class="img" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehdwo98&count_bg=%23FFC155&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" />
+
 <!--
 **ehdwo98/ehdwo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
