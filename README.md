@@ -4,6 +4,7 @@
 # Production
 - 경북대 컴퓨터학부 글로벌SW전공 (2018.03 - 2025.02)
 - 경북대 컴퓨터학부 대학원 석사과정 DACS Lab (2025.03 - )
+
 ## Interests and skills
 - RAG(Retrieval Augmented Generation)
 - LLM, SLM, PEFT
@@ -12,6 +13,12 @@
 - Django and Flask
 - MySQL, mongoDB
 - EDA, ML(scikit-learn), DL(Pytorch, TensorFlow)
+
+## Publication
+|Title|Author|Conference|PDF|
+|QRiousRAG: Retrieval Augmented Generation with Question-refinement using LLMs in ambiguous question answering|고동재·Lasse M. Jantsch·주환성·서영균|[QRiousRAG Retrieval Augmented Generation with Ques.pdf](https://github.com/user-attachments/files/18814892/QRiousRAG.Retrieval.Augmented.Generation.with.Ques.pdf)|
+
+
 
 ## Projects
 |참여프로젝트|기간|링크|
