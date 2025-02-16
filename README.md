@@ -5,8 +5,9 @@
 - 경북대 컴퓨터학부 글로벌SW전공
 
 ## Interests and skills
-- LLM, SLM
-- PEFT, RAG
+- RAG(Retrieval Augmented Generation)
+- LLM, SLM, PEFT
+- Diffusion, VAE, GAN
 - HuggingFace
 - Django and Flask
 - MySQL, mongoDB
