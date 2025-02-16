@@ -17,7 +17,7 @@
 ## Publication
 |Title|Author|Conference|PDF|
 |:------:|:---:|:---:|:---:|
-|QRiousRAG: Retrieval Augmented Generation with Question-refinement using LLMs in ambiguous question answering|고동재·Lasse M. Jantsch·주환성·서영균|KSC2024|[QRiousRAG Retrieval Augmented Generation with Ques.pdf](https://github.com/user-attachments/files/18814892/QRiousRAG.Retrieval.Augmented.Generation.with.Ques.pdf)|
+|QRiousRAG: Retrieval Augmented Generation with Question-refinement using LLMs in ambiguous question answering|고동재·Lasse M. Jantsch·주환성·서영균|KSC2024|[QRiousRAG Retrieval Augmented Generation with Ques.pdf](https://github.com/user-attachments/files/18814892/QRiousRAG.pdf)|
 
 
 
