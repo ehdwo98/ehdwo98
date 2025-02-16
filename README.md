@@ -2,8 +2,8 @@
 
 
 # Production
-- 경북대 컴퓨터학부 글로벌SW전공
-
+- 경북대 컴퓨터학부 글로벌SW전공 (2018.03 - 2025.02)
+- 경북대 컴퓨터학부 대학원 석사과정 DACS Lab (2025.03 - )
 ## Interests and skills
 - RAG(Retrieval Augmented Generation)
 - LLM, SLM, PEFT
