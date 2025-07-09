@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=869adb&height=200&section=header&text=Hello!%20I'm%20KDJ&fontSize=50&fontColor=#0080FF)
-
+# About Me
+https://lively-moonstone-f1c.notion.site/Resume-3bc8ea40d1014dff9320ce78281d6a0e
 
 ## Education
 - 경북대 컴퓨터학부 글로벌SW전공 (2018.03 - 2025.02)
